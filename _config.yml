@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-deploy:
  type: git
  repo: git@github.com:2188199176/xxy.github.io.git
  branch: master
